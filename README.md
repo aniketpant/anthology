@@ -84,3 +84,9 @@ This happened to me many times on GitHub and I used to get a hold of these proje
 ## Games
 
 - [A Dark Room](https://github.com/Continuities/adarkroom) — A Dark Room - A Minimalist Text Adventure
+
+## Magazines
+
+- [Contents](http://contentsmagazine.com)
+- [8 Faces](http://8faces.com)
+- [Digest](http://readdigest.com)
